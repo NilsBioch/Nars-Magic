@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+      {
+        "item": "narsmagic:living_gold_block"
+      }
+    ],
+    "result":
+    {
+      "item": "narsmagic:living_gold_ingot",
+      "count": 9
+    }
+  }

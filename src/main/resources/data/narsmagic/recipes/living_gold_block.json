@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern":
+    [
+      "###",
+      "###",
+      "###"
+    ],
+    "key":
+    {
+      "#":
+      {
+        "item": "narsmagic:living_gold_ingot"
+      }
+    },
+    "result":
+    {
+      "item": "narsmagic:living_gold_block",
+      "count": 1
+    }
+  }
