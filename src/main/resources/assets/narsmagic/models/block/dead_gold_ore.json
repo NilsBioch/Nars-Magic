@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+      "all": "narsmagic:block/dead_gold_ore"
+    }
+  }
