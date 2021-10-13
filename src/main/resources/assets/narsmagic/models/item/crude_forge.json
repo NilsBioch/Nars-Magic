@@ -1,0 +1,8 @@
+{
+  "parent": "block/orientable",
+  "textures": {
+    "top": "narsmagic:block/crude_forge_top",
+    "front": "narsmagic:block/crude_forge_front",
+    "side": "narsmagic:block/crude_forge_side"
+  }
+}

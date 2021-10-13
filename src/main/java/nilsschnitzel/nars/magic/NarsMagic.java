@@ -1,8 +1,8 @@
 package nilsschnitzel.nars.magic;
 
 import net.fabricmc.api.ModInitializer;
-import nilsschnitzel.nars.magic.registry.ModBlocks;
-import nilsschnitzel.nars.magic.registry.ModItems;
+import nilsschnitzel.nars.magic.blocks.ModBlocks;
+import nilsschnitzel.nars.magic.items.ModItems;
 
 // import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 // import net.fabricmc.fabric.api.item.v1.FabricItemSettings;

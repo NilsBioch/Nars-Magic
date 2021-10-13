@@ -4,5 +4,7 @@
     "item.narsmagic.soul_gem": "Soul Gem",
     "item.narsmagic.crude_iron": "Crude Iron",
     "block.narsmagic.living_gold_block": "Living Gold Block",
-    "block.narsmagic.dead_gold_ore": "Dead Gold Ore"
+    "block.narsmagic.dead_gold_ore": "Dead Gold Ore",
+
+    "itemGroup.narsmagic.general": "Nars Magic"
 }
